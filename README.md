@@ -6,7 +6,7 @@
 
 
 
-########                        All screenshots are at the end of this file                   #########
+#                      All screenshots are at the end of this file                   
 
 
 
